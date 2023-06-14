@@ -5,6 +5,8 @@ Connect-mggraph -scope "policy.read.all", "User.Read.All", "directory.read.all",
 
 ## for the graph get request use: https://developer.microsoft.com/en-us/graph/graph-explorer
 ## sign in with global admin and press on modify permissions to consent on reading and getting token
+## request form: GET BETA Link like: https://graph.microsoft.com/beta/security/secureScores
+## search results in lower box according to needs, results are returning massive ammount so use search.
 
 
 ##############################################
